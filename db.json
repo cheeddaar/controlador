@@ -1,0 +1,41 @@
+[
+    {
+        "id": "1",
+        "nombre": "brimstone",
+        "rol": "controlador",
+        "descripcion": "Brimstone es un agente estadounidense con el rol de controlador, sus utilidades ayudan a potenciar a sus aliados y dividir el terreno peligroso. Fue de los primeros Controladores jugables desde la beta.",
+        "foto": "img/Brimstone_icon.webp"
+    }
+    ,
+    {
+        "id": "2",
+        "nombre": "viper",
+        "rol": "controlador",
+        "descripcion": "Viper despliega varios artefactos químicos venenosos para controlar el campo de batalla y afectar la visión de los enemigos. Si las toxinas no asesinan a su presa, sin duda lo harán sus juegos mentales.",
+        "foto": "img/Viper_icon.webp"
+    }
+    ,
+    {
+        "id": "3",
+        "nombre": "omen",
+        "rol": "controlador",
+        "descripcion": "Un hombre con orígenes misteriosos, Omen se enfoca en obstaculizar la visión de sus enemigos con cosas como un orbe que golpea a los que están en su mira con miopía y otro que estalla para oscurecer la visión de todos los que están cerca. También puede teletransportarse a corta distancia o usar su habilidad definitiva para teletransportarse a cualquier parte del mapa como una sombra.",
+        "foto": "img/Omen_icon.webp"
+    }
+    ,
+    {
+        "id": "4",
+        "nombre": "astra",
+        "rol": "controlador",
+        "descripcion": "La agente ghanesa Astra aprovecha las energías del cosmos para remodelar los campos de batalla a su antojo. Con pleno dominio de su forma astral y un talento para la previsión estratégica profunda, siempre está eones por delante del próximo movimiento de su enemigo.",
+        "foto": "assets/img/Astra_icon.webp"
+    }
+    ,
+    {
+        "id": "5",
+        "nombre": "harbor",
+        "rol": "controlador",
+        "descripcion": "Proveniente de la costa de la India, Harbour asalta el campo empuñando tecnología antigua con dominio sobre el agua. Desata rápidos espumosos y olas aplastantes para proteger a sus aliados o aplastar a los que se le oponen.",
+        "foto": "assets/img/Harbor_icon.webp"
+    }
+    ]
